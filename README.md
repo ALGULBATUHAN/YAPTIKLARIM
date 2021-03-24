@@ -1,2 +1,2 @@
 # YAPTIKLARIM
-<br>Dostlarım vurada klonladığım websitelrini paylaşıyorum saygılarımla...</br>
+<br>Dostlarım Burada klonladığım websitelrini paylaşıyorum saygılarımla...</br>
